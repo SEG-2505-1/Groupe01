@@ -14,3 +14,9 @@ public class Names {
       System.out.println("Aimen");
    }
 }
+
+public class Names {
+   public static void main(String[] args) {
+      System.out.println("Salma");
+   }
+}

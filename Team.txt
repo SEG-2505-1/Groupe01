@@ -3,3 +3,8 @@ public class Names {
       System.out.println("Salim Rholam");
    }
 }
+public class Names {
+   public static void main(String[] args) {
+      System.out.println("Ghita");
+   }
+}

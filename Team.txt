@@ -1,0 +1,22 @@
+public class Names {
+   public static void main(String[] args) {
+      System.out.println("Salim Rholam");
+   }
+}
+public class Names {
+   public static void main(String[] args) {
+      System.out.println("Ghita");
+   }
+}
+
+public class Names {
+   public static void main(String[] args) {
+      System.out.println("Aimen");
+   }
+}
+
+public class Names {
+   public static void main(String[] args) {
+      System.out.println("Salma");
+   }
+}
